@@ -1,6 +1,6 @@
 # UNIBA_PROG_PharmaceuticalCompany
 The program allows you to upload information relating to drugs and manage their inventory.
-
+![](UNIBA_PROG.gif)
 A pharmaceutical company produces several drugs. For each, the alphanumeric code (eg EP1232), the name (eg Nimesulide), the number of packages available, the expiry date expressed in the month and year format (eg 12 2018) are known. 
 Design a program that allows you to:
  - load drug information into a table;
